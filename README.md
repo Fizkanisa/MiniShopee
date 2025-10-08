@@ -2,6 +2,12 @@
 
 Proyek MiniShopee adalah aplikasi berbasis Java sederhana yang meniru sistem belanja online seperti Shopee. Program ini menerapkan konsep Pemrograman Berorientasi Objek (PBO) seperti class, object, array, exception handling, serta menerapkan Array untuk menyimpan data produk dan item keranjang belanja.
 
+Program MiniShopee dimulai dengan membuat objek toko (Store), pengguna (User), dan keranjang (Cart).
+Kemudian ditambahkan beberapa produk ke dalam daftar toko.
+Melalui menu interaktif di console, pengguna dapat memilih untuk melihat produk, menambah ke keranjang, atau melakukan checkout.
+Jika saldo pengguna tidak mencukupi atau stok produk habis, program akan menampilkan pesan error menggunakan exception handling tanpa menghentikan eksekusi program.
+Setelah checkout berhasil, keranjang akan dikosongkan, dan pengguna dapat memberi rating pada produk yang telah dibeli.
+
 **🧠Konsep Pemrograman yang Diterapkan**
 
 | Konsep                                     | Implementasi                                                 |
