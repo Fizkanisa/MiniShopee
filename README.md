@@ -108,7 +108,7 @@ MiniShopee/
 
 📺 Video Penjelasan di YouTube:
 
-👉 Klik di sini untuk menonton demo MiniShopee
+👉 https://youtu.be/UOdBL_33CbA
 
 Isi video:
 1. Penjelasan struktur class & package.
