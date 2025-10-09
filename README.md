@@ -22,7 +22,7 @@ Setelah checkout berhasil, keranjang akan dikosongkan, dan pengguna dapat member
 | **Looping**                                | `while` dan `for-each` digunakan pada menu dan daftar produk |
 | **Manipulasi String & Character**          | Input ID produk, pencarian berdasarkan String                |
 | **Array / ArrayList**                      | Menyimpan kumpulan produk dan item belanja                   |
-| **Exception Handling (Nilai Plus)**        | `OutOfStockException` dan `InsufficientBalanceException`     |
+| **Exception Handling**                     | `OutOfStockException` dan `InsufficientBalanceException`     |
 | **Package**                                | `MiniShopee` dan `MiniShopeeExceptions`                      |
 | **Input Scanner**                          | Untuk interaksi user melalui terminal                        |
 
