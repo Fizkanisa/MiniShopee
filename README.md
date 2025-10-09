@@ -15,8 +15,8 @@ Setelah checkout berhasil, keranjang akan dikosongkan, dan pengguna dapat member
 | **Class & Object**                         | `Product`, `User`, `Store`, `Cart`, `Main`                   |
 | **Constructor**                            | Digunakan untuk inisialisasi data produk dan user            |
 | **Method dengan Parameter & Return Value** | `addItem()`, `getTotal()`, `pay()`                           |
-| **Variabel (Lokal, Global, Static)**       | Variabel `name`, `price`, `balance`, `total`, dll            |
-| **Konstanta (final)**                      | Digunakan untuk penamaan tetap seperti ID produk             |
+| **Variabel**                               | Variabel `name`, `price`, `balance`, `total`, dll            |
+| **Konstanta**                              | Digunakan untuk penamaan tetap seperti ID produk             |
 | **Primitive & Reference Type**             | `int`, `double`, `String`, `ArrayList<Product>`              |
 | **Kondisional**                            | `if-else`, `switch-case` untuk logika menu                   |
 | **Looping**                                | `while` dan `for-each` digunakan pada menu dan daftar produk |
